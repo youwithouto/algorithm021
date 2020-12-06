@@ -1,7 +1,5 @@
 # 分析 Queue 和 Priority Queue 的源码
 
----
-
 在 Java 中，Queue 是一个 Interface，而 PriorityQueue 是一个 Class。
 - PriorityQueue 实现了 Queue 定义的接口
 
